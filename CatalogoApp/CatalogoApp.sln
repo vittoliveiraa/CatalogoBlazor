@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoApp.Server", "CatalogoApp\Server\CatalogoApp.Server.csproj", "{7A98A319-CF72-46E5-8633-016D25806723}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogoApp.Server", "CatalogoApp\Server\CatalogoApp.Server.csproj", "{7A98A319-CF72-46E5-8633-016D25806723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoApp.Client", "CatalogoApp\Client\CatalogoApp.Client.csproj", "{D55ABF49-C5D6-495B-AEDA-644C24354452}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogoApp.Client", "CatalogoApp\Client\CatalogoApp.Client.csproj", "{D55ABF49-C5D6-495B-AEDA-644C24354452}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatalogoApp.Shared", "CatalogoApp\Shared\CatalogoApp.Shared.csproj", "{9C90DBB1-B5D9-4DD3-943B-6FACDE9A8F42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CatalogoApp.Shared", "CatalogoApp\Shared\CatalogoApp.Shared.csproj", "{9C90DBB1-B5D9-4DD3-943B-6FACDE9A8F42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
